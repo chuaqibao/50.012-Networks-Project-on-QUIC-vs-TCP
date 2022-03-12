@@ -1,0 +1,22 @@
+Request:
+headers:
+{
+  :method GET
+  :scheme https
+  :authority www.example.org
+  :path /
+}
+body: 
+
+Preliminary response headers: {}
+
+Response:
+headers: 
+{
+  :status 404
+  content-length 14
+}
+
+body: file not found
+trailers: {}
+Request failed (404).

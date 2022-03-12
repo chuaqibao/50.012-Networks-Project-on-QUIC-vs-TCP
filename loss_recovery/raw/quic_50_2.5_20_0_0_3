@@ -1,0 +1,24 @@
+ 00:00:00.000000 IP (tos 0x0, ttl 64, id 10444, offset 0, flags [DF], proto TCP (6), length 60)
+    127.0.0.1.39034 > 127.0.0.1.80: tcp 0
+ 00:00:00.019902 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    127.0.0.1.80 > 127.0.0.1.39034: tcp 0
+ 00:00:00.020161 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    127.0.0.1.80 > 127.0.0.1.39034: tcp 0
+ 00:00:00.049656 IP (tos 0x0, ttl 64, id 10446, offset 0, flags [DF], proto TCP (6), length 198)
+    127.0.0.1.39034 > 127.0.0.1.80: tcp 146
+ 00:00:00.049828 IP (tos 0x0, ttl 64, id 10447, offset 0, flags [DF], proto TCP (6), length 52)
+    127.0.0.1.39034 > 127.0.0.1.80: tcp 0
+ 00:00:00.069759 IP (tos 0x0, ttl 64, id 60392, offset 0, flags [DF], proto TCP (6), length 52)
+    127.0.0.1.80 > 127.0.0.1.39034: tcp 0
+ 00:00:00.070261 IP (tos 0x0, ttl 64, id 60393, offset 0, flags [DF], proto TCP (6), length 11873)
+    127.0.0.1.80 > 127.0.0.1.39034: tcp 11821
+ 00:00:00.099799 IP (tos 0x0, ttl 64, id 10448, offset 0, flags [DF], proto TCP (6), length 52)
+    127.0.0.1.39034 > 127.0.0.1.80: tcp 0
+ 00:00:00.649630 IP (tos 0x0, ttl 64, id 23311, offset 0, flags [DF], proto UDP (17), length 1278)
+    127.0.0.1.59870 > 127.0.0.1.6121: UDP, length 1250
+ 00:00:00.699567 IP (tos 0x0, ttl 64, id 23312, offset 0, flags [DF], proto UDP (17), length 1278)
+    127.0.0.1.6121 > 127.0.0.1.59870: UDP, length 1250
+ 00:00:00.703366 IP (tos 0x0, ttl 64, id 23313, offset 0, flags [DF], proto UDP (17), length 471)
+    127.0.0.1.6121 > 127.0.0.1.59870: UDP, length 443
+ 00:00:00.749570 IP (tos 0x0, ttl 64, id 23325, offset 0, flags [DF], proto UDP (17), length 1278)
+    127.0.0.1.59870 > 127.0.0.1.6121: UDP, length 1250

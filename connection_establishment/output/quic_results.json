@@ -1,0 +1,42 @@
+{
+    "total_tests": 9,
+    "overall_avg_rtt": 0.020487333333333333,
+    "individual_test_results": {
+        "test_0": {
+            "rtt_count": 1,
+            "average_rtt": 0.019155
+        },
+        "test_1": {
+            "rtt_count": 1,
+            "average_rtt": 0.018959
+        },
+        "test_2": {
+            "rtt_count": 1,
+            "average_rtt": 0.019963
+        },
+        "test_3": {
+            "rtt_count": 1,
+            "average_rtt": 0.016078
+        },
+        "test_4": {
+            "rtt_count": 1,
+            "average_rtt": 0.01391
+        },
+        "test_5": {
+            "rtt_count": 2,
+            "average_rtt": 0.044483
+        },
+        "test_6": {
+            "rtt_count": 1,
+            "average_rtt": 0.019033
+        },
+        "test_7": {
+            "rtt_count": 1,
+            "average_rtt": 0.017143
+        },
+        "test_8": {
+            "rtt_count": 1,
+            "average_rtt": 0.015662
+        }
+    }
+}

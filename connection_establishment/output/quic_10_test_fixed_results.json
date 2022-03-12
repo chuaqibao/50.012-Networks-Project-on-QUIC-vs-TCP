@@ -1,0 +1,46 @@
+{
+    "total_tests": 10,
+    "overall_avg_rtt": 0.0242290735244751,
+    "individual_test_results": {
+        "test_0": {
+            "handshake_rtts": 1,
+            "average_rtt": 0.016889095306396484
+        },
+        "test_1": {
+            "handshake_rtts": 1,
+            "average_rtt": 0.022972822189331055
+        },
+        "test_2": {
+            "handshake_rtts": 1,
+            "average_rtt": 0.02451491355895996
+        },
+        "test_3": {
+            "handshake_rtts": 1,
+            "average_rtt": 0.0274808406829834
+        },
+        "test_4": {
+            "handshake_rtts": 1,
+            "average_rtt": 0.026070117950439453
+        },
+        "test_5": {
+            "handshake_rtts": 1,
+            "average_rtt": 0.017891883850097656
+        },
+        "test_6": {
+            "handshake_rtts": 1,
+            "average_rtt": 0.023977994918823242
+        },
+        "test_7": {
+            "handshake_rtts": 1,
+            "average_rtt": 0.014315128326416016
+        },
+        "test_8": {
+            "handshake_rtts": 2,
+            "average_rtt": 0.04709506034851074
+        },
+        "test_9": {
+            "handshake_rtts": 1,
+            "average_rtt": 0.02108287811279297
+        }
+    }
+}

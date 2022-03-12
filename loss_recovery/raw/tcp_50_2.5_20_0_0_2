@@ -1,0 +1,10 @@
+ 00:00:00.000000 IP (tos 0x0, ttl 64, id 34522, offset 0, flags [DF], proto TCP (6), length 60)
+    127.0.0.1.39026 > 127.0.0.1.80: tcp 0
+ 00:00:00.020273 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    127.0.0.1.80 > 127.0.0.1.39026: tcp 0
+ 00:00:00.040355 IP (tos 0x0, ttl 64, id 34523, offset 0, flags [DF], proto TCP (6), length 52)
+    127.0.0.1.39026 > 127.0.0.1.80: tcp 0
+ 00:00:00.040756 IP (tos 0x0, ttl 64, id 34524, offset 0, flags [DF], proto TCP (6), length 198)
+    127.0.0.1.39026 > 127.0.0.1.80: tcp 146
+ 00:00:00.061194 IP (tos 0x0, ttl 64, id 61759, offset 0, flags [DF], proto TCP (6), length 52)
+    127.0.0.1.80 > 127.0.0.1.39026: tcp 0
